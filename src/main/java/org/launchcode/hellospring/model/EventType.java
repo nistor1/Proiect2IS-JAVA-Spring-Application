@@ -1,8 +1,6 @@
 package org.launchcode.hellospring.model;
 
-/**
- * Created by Chris Bay
- */
+
 public enum EventType {
 
     CONFERENCE("Conference"),
