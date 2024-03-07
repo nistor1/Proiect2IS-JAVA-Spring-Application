@@ -1,3 +1,3 @@
-Java Spring Application
-CRUD - events
+Java Spring Application  
+CRUD - events  
 GUI - HTML/CSS
